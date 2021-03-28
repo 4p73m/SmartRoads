@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SmartRoads\SmartRoads\bin\Debug\SmartRoads.exe.config
+C:\Users\Admin\source\repos\SmartRoads\SmartRoads\bin\Debug\SmartRoads.exe
+C:\Users\Admin\source\repos\SmartRoads\SmartRoads\bin\Debug\SmartRoads.pdb
+C:\Users\Admin\source\repos\SmartRoads\SmartRoads\obj\Debug\SmartRoads.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SmartRoads\SmartRoads\obj\Debug\SmartRoads.MainWindow.resources
+C:\Users\Admin\source\repos\SmartRoads\SmartRoads\obj\Debug\SmartRoads.Properties.Resources.resources
+C:\Users\Admin\source\repos\SmartRoads\SmartRoads\obj\Debug\SmartRoads.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SmartRoads\SmartRoads\obj\Debug\SmartRoads.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SmartRoads\SmartRoads\obj\Debug\SmartRoads.exe
+C:\Users\Admin\source\repos\SmartRoads\SmartRoads\obj\Debug\SmartRoads.pdb
